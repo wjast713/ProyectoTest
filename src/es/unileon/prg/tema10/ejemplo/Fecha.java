@@ -34,6 +34,7 @@ public class Fecha {
 
 		public void setDay(int day) {
 			this.day = day;
+			
 		}
 
 

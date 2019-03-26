@@ -10,7 +10,8 @@ public class MainEjemplo {
 		
 		int valor = miFecha.getDay();
 		miFecha.setYear(2019);
-		
+		 valor = miFecha.getYear();
+
 		System.out.println(valor);
 
 	}
